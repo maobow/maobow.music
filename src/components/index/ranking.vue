@@ -258,7 +258,7 @@
 .list_box1 ul li {
 	margin: 10px 10px;
 	/* background-color: coral; */
-	width: 100%;
+	width: 97%;
 	height: 100px;
 }
 .list_img {
